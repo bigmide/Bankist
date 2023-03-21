@@ -16,11 +16,11 @@ Deployed at: https://bankist-mide.netlify.app
 
 Login with the following user to test the features:
 
-> user: jd
+> user: jd  
 > pin: 2222
 
-> user: stw
+> user: stw  
 > pin: 3333
 
-> user: ss
+> user: ss  
 > pin: 4444
