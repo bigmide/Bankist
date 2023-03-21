@@ -2,6 +2,8 @@
 
 A mini bank app written solely with javascript.
 
+Deployed at: https://bankist-mide.netlify.app
+
 ## Features:
 
 - Login
